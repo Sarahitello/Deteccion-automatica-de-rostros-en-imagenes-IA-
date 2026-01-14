@@ -1,6 +1,9 @@
-# 🔍 Sistema Automático de Detección de Rostros con IA
+# 🔍 Sistema Automático de Detección de Rostros con OpenCV y Haar Cascade
+
+**Desarrollado por [Sarahi Lilian Tello Torres](https://github.com/Sarahitello)**
+*Data Scientist | Especialista en Visión por Computadora y Procesamiento de Imágenes*
+
 ---
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/) 
 
 ## 📌 Descripción
 Este proyecto implementa un **sistema automático de detección de rostros** en imágenes utilizando **OpenCV** y el clasificador **Haar Cascade**. El sistema está optimizado para ejecutarse en **Google Colab**, aprovechando el procesamiento en la nube para una detección eficiente y en tiempo real.
@@ -24,9 +27,5 @@ Este proyecto implementa un **sistema automático de detección de rostros** en 
 ---
 
 ## 🚀 ¿Cómo Ejecutar el Proyecto?
-1. **Abrir en Google Colab**:
+**Abrir en Google Colab**:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarahitello/Sistema_automático_de_detección_de_rostros_en_imágenes/blob/main/Sistema_automático_de_detección_de_rostros_en_imágenes.ipynb)
-
-2. **Instalar dependencias**:
-   ```python
-   !pip install opencv-python
