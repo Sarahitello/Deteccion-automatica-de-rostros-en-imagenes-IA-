@@ -1,7 +1,8 @@
 # 🔍 Sistema Automático de Detección de Rostros con OpenCV y Haar Cascade
 
-**Desarrollado por [Sarahi Lilian Tello Torres](https://github.com/Sarahitello)**
-*Data Scientist | Especialista en Visión por Computadora y Procesamiento de Imágenes*
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
 ---
 
