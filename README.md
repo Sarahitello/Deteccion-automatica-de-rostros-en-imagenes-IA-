@@ -30,3 +30,26 @@ Este proyecto implementa un **sistema automático de detección de rostros** en 
 ## 🚀 ¿Cómo Ejecutar el Proyecto?
 **Abrir en Google Colab**:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarahitello/Sistema_automático_de_detección_de_rostros_en_imágenes/blob/main/Sistema_automático_de_detección_de_rostros_en_imágenes.ipynb)
+
+   ## ✨ Funcionalidades
+1. **Detección de Rostros en Tiempo Real**
+   - Identifica rostros humanos en imágenes estáticas con alta precisión.
+   - Utiliza el clasificador **Haar Cascade**, entrenado para reconocer patrones faciales.
+
+2. **Procesamiento de Imágenes**
+   - Convierte imágenes a escala de grises para optimizar el análisis.
+   - Aplica el método **`detectMultiScale`** para localizar rostros en diferentes escalas.
+
+3. **Visualización de Resultados**
+   - Dibuja rectángulos azules alrededor de los rostros detectados.
+   - Muestra la imagen procesada con **Matplotlib** para una fácil interpretación.
+
+4. **Optimización para Google Colab**
+   - Ejecución en la nube con soporte para GPU, garantizando velocidad y eficiencia.
+   - Interfaz sencilla para cargar imágenes y visualizar resultados al instante.
+
+5. **Documentación Clara**
+   - Cada paso del proceso está documentado, desde la instalación de dependencias hasta la interpretación de resultados.
+  
+**Desarrollado por [Sarahi Lilian Tello Torres](https://github.com/Sarahitello)**
+*Data Scientist | Machine Learning & Applied Mathematics*
